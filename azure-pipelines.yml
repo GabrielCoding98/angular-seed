@@ -1,10 +1,6 @@
 # Node.js with Angular
 - task: WhiteSource@21
-  inputs:
     projectName: 'WhiteSource Bolt'
-# Build a Node.js project that uses Angular.
-# Add steps that analyze code, save build artifacts, deploy, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
 - master
